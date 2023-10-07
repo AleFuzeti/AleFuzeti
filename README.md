@@ -1,5 +1,5 @@
-### Hi! I'm Alexandre Fuzeti. Welcome to my github 😁
-- 📚 Current on the fourth semester of Computer Science
+### Hi! I'm Alexandre Fuzeti. Welcome to my GitHub 😁
+- 📚 Current in the fifth semester of Computer Science
 - 🌱 Studying C, CSS, Html and JavaScript
 - 📩 Contact me: alebertipaglia@gmail.com
 
