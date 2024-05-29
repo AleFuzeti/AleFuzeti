@@ -1,6 +1,6 @@
 ### Hi! I'm Alexandre Fuzeti. Welcome to my GitHub 😁
-- 📚 Current in the fifth semester of Computer Science
-- 🌱 Studying C, CSS, Html and JavaScript
+- 📚 Current in the seventh semester of Computer Science
+- 🌱 Studying Machine Learning
 - 📩 Contact me: alebertipaglia@gmail.com
 
 <div align="center">
