@@ -1,6 +1,7 @@
 # Hi! I'm Alexandre Fuzeti. Welcome to my GitHub 😁
 
-- 📚 Currently in the seventh semester of Computer Science
+- 📚 Graduated in Computer Science from the State University of Londrina (UEL)
+- 🎓 Currently pursuing a Master's in Computer Science, specializing in Artificial Intelligence and Machine Learning
 - 🌱 Studying Machine Learning
 - 📩 Contact me: alebertipaglia@gmail.com
 
