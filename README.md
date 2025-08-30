@@ -1,5 +1,6 @@
 # Hi! I'm Alexandre Fuzeti 👋  
 Welcome to my GitHub 😁
+Portfolio: https://alefuzeti.github.io/github/
 
 - 💻 Software Engineer with experience in web development and AI/ML projects  
 - 📚 Bachelor's Degree in Computer Science @ UEL  
